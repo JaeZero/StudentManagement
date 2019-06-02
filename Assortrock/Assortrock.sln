@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assortrock", "Assortrock\Assortrock.vcxproj", "{558A052C-D96E-47E5-9442-6C1A7D62802E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558A052C-D96E-47E5-9442-6C1A7D62802E}.Debug|x64.ActiveCfg = Debug|x64
+		{558A052C-D96E-47E5-9442-6C1A7D62802E}.Debug|x64.Build.0 = Debug|x64
+		{558A052C-D96E-47E5-9442-6C1A7D62802E}.Debug|x86.ActiveCfg = Debug|Win32
+		{558A052C-D96E-47E5-9442-6C1A7D62802E}.Debug|x86.Build.0 = Debug|Win32
+		{558A052C-D96E-47E5-9442-6C1A7D62802E}.Release|x64.ActiveCfg = Release|x64
+		{558A052C-D96E-47E5-9442-6C1A7D62802E}.Release|x64.Build.0 = Release|x64
+		{558A052C-D96E-47E5-9442-6C1A7D62802E}.Release|x86.ActiveCfg = Release|Win32
+		{558A052C-D96E-47E5-9442-6C1A7D62802E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1ED2CED-0FC2-40CD-8C58-C985561E28B2}
+	EndGlobalSection
+EndGlobal
